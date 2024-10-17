@@ -9,7 +9,7 @@ Redux: A state management library for managing the application's state.
 HTML/CSS: Used for structuring and styling the app's user interface.
 JavaScript: The programming language used for the app's functionality and interactivity.
 
-Hosted Link: https://apni-coding.github.io/HabitTracker/
+Hosted Link: https://habit-tracker-react-app-six.vercel.app/
 
 # Getting Started with Create React App
 
